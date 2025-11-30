@@ -1,16 +1,14 @@
-## Hi there 👋
+## Greetings! 🤜🤛
 
-<!--
-**AnviHere/AnviHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ivan. I am a Game Engineer based in the Philippines.
+I am currently in my third year of my undergraduate program.
 
-Here are some ideas to get you started:
+Currently working on [**Scars of Harpuia**](https://www.manybees.online/scarsofharpuia) with a team of 12 people and [**Post Mortem**](https://kutsinta.itch.io/post-mortem) which was from a game jam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests include (Links coming soon):
+- Modular and Scalable Systems
+- Procedural Generation
+- DevOps and LiveOps
+- Multiplayer
+
+Previous works included school submissions with a open digital medium, school works, and fun personal projects which could be found in my [**itch.io**](https://anvihere.itch.io) page.
