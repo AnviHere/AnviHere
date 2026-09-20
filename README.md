@@ -1,21 +1,15 @@
 ## Greetings! 🤜🤛
 
 My name is Ivan. I am a Game Engineer based in the Philippines.
-I am currently in my third year of my undergraduate program.
+I am currently in my fourth year of my undergraduate program.
 
-Currently working on [**Scars of Harpuia**](https://www.manybees.online/scarsofharpuia) with a team of 12 people and [**Post Mortem**](https://kutsinta.itch.io/post-mortem) which was from a game jam.
+Currently working on mobile games such as [**Bake or Break**](https://www.facebook.com/bakeorbreakgame/) which has been to PGDX and competitions as well as other titles such as [**Ratatak**] (Coming Soon).
 
-Interests include (Links coming soon):
-- Modular and Scalable Systems
-  - 2D Player Controller
-  - Generic 3D Player Controller (FPS/TPS)
-  - Inventory System
-  - General Components (Stats, Identification, Damaging, Etc.)
-- Procedural Generation
-  - 2D
-  - 3D
-- Multiplayer
-  - Photon
+Also working for researchers from the [**National University of Singapore**] to develop their research turned PC game called [**Marino**].
+
+Other interests include:
 - LiveOps
+- Co-op/Mutiplayer based games
+- Backend systems design
 
 Previous works included school submissions with a open digital medium, school works, and fun personal projects which could be found in my [**itch.io**](https://anvihere.itch.io) page.
