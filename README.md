@@ -24,7 +24,7 @@ Currently developing mobile titles such as **Bake or Break** and working for res
 > **Contributions:**
 > - Used **PlayFab** and **Azure** functions to handle LiveOps features and events.
 > - Implemented authentication for both Google Play and guest accounts.
-> - Polished games with effects and animations.
+> - Polished game with effects and animations.
 
 <img width="75%" alt="Bake or Break Showcase" src="https://github.com/user-attachments/assets/ff272994-811b-4617-b761-cc07125ff6d2" />
 
