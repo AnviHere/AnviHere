@@ -1,4 +1,4 @@
-# Greetings! 🤜🤛 
+<img width="67" height="33" alt="image" src="https://github.com/user-attachments/assets/302145b1-eeac-4be5-82c2-ff6eb52e4c32" /># Greetings! 🤜🤛 
 I'm Ivan, a **Game Programmer** based in the Philippines | 4th Year Undergraduate
 
 I am currently into **LiveOps** and **Backend Systems Design** with interests in **Frontend design**. 
@@ -68,6 +68,8 @@ Currently developing mobile titles such as **Bake or Break** and working for res
 
 > **Info:**
 > - Jamsepticeye submission, one of the game jams I joined. Contains one of my more favorite game mechanics and design
+
+<img width="75%" alt="post_mortem_gif" src="https://github.com/user-attachments/assets/fa9db47c-d739-461b-adbf-298c3ad7927c" />
 
 ---
 
