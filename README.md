@@ -4,7 +4,7 @@ I'm Ivan, a **Game Programmer** based in the Philippines | 4th Year Undergraduat
 I am currently into **LiveOps** and **Backend Systems Design** with interests in **Frontend design**. 
 Currently developing mobile titles such as **Bake or Break** and working for researchers from the **National University of Singapore (NUS)** on *Marino*.
 
-[🌐 itch.io](https://anvihere.itch.io) • [📘 Bake or Break Facebook](https://www.facebook.com/bakeorbreakgame/)
+[CV](https://canva.link/cv-penas-ivan) • [itch.io](https://anvihere.itch.io) • [Bake or Break Facebook](https://www.facebook.com/bakeorbreakgame/)
 
 ---
 
@@ -18,7 +18,7 @@ Currently developing mobile titles such as **Bake or Break** and working for res
 ## My Projects
 
 ### Bake or Break
-*Fast-paced mobile memory game featured at PGDX and regional competitions.*
+*Fast-paced mobile memory game featured at **PGDX** and **regional competitions** with very positive reviews.*
 
 > **Tech Stack:** Godot, PlayFab, Azure, Google Play Auth  
 > **Contributions:**
