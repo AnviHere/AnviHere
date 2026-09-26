@@ -1,8 +1,8 @@
 # Greetings! 🤜🤛 
-I'm Ivan, a **Game Programmer** based in the Philippines | 4th-Year Undergraduate
+I'm Ivan, a **Game Programmer** based in the Philippines | 4th Year Undergraduate
 
 I am currently into **LiveOps** and **Backend Systems Design**. 
-Currently developing mobile titles such as **Bake or Break** and collaborating with researchers from the **National University of Singapore (NUS)** on *Marino*.
+Currently developing mobile titles such as **Bake or Break** and working for researchers from the **National University of Singapore (NUS)** on *Marino*.
 
 [🌐 itch.io](https://anvihere.itch.io) • [📘 Bake or Break Facebook](https://www.facebook.com/bakeorbreakgame/)
 
