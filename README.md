@@ -1,4 +1,4 @@
-<img width="67" height="33" alt="image" src="https://github.com/user-attachments/assets/302145b1-eeac-4be5-82c2-ff6eb52e4c32" /># Greetings! 🤜🤛 
+## Greetings! 🤜🤛 
 I'm Ivan, a **Game Programmer** based in the Philippines | 4th Year Undergraduate
 
 I am currently into **LiveOps** and **Backend Systems Design** with interests in **Frontend design**. 
